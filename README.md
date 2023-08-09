@@ -21,6 +21,7 @@ My approach is divided into the following sections:
 6.	Model building & evaluation - build multiple models (linear regression, decision trees, etc.)
 
 My conclusion was this:
+
 Mean Squared Error (MSE) showed that K-Nearest Regressor is performing well. But we will use Mean Absolute Error (MAE) as a metric for our deployment 
 as it is more easily interpretable. Also, I'd like to point out that MSE is more sensitive to outliers than MAE. Although we have removed outliers, 
 using MAE would make our analysis more reliable if we encounter any new outliers. Thus, we would use the Decision Tree Regressor for deploying
