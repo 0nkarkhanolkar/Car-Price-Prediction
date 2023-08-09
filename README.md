@@ -23,6 +23,11 @@ My approach is divided into the following sections:
 5.	Data preprocessing - implement feature engineering, train test splitting, encoding, scaling
 6.	Model building & evaluation - build multiple models (linear regression, decision trees, etc.)
 
+![image](https://github.com/0nkarkhanolkar/Car-Price-Prediction/assets/98197574/cde94b56-7187-4a10-b4ef-049d0b2959a1)
+
+![image](https://github.com/0nkarkhanolkar/Car-Price-Prediction/assets/98197574/b27e44f1-d876-44ea-b4a0-452339aecf47)
+
+![image](https://github.com/0nkarkhanolkar/Car-Price-Prediction/assets/98197574/9a6a4bb4-b846-45f4-b76e-0897692e5304)
 
 My conclusion was this:
 
