@@ -4,13 +4,16 @@ Thus, I took it upon myself to look at a Car Prices dataset and predict the pric
 It would also be an excellent way to understand better the features and characteristics that most affect a car's prices. 
 I must say, though, the source of my motivation was to predict the price of the "2024 Dodge Charger Daytona SRT Concept" once deployed.
 
+
 For my readers, assume you are a Data scientist who is required to predict the price of cars with the available independent variables.
 The business objective, and your task, is to help the management understand how the prices vary with the independent variables.
 Our analysis will allow them to manipulate the design of the cars, the business strategy, etc., to meet the required price levels.
 
+
 Our aim is to understand the factors affecting the pricing of cars & essentially, to answer these questions:
 1. 	Which variables are significant in predicting the price of a car?
 2.	How well do those variables describe the price of a car?
+
 
 My approach is divided into the following sections:
 1.	Data cleaning - drop unnecessary columns, fill in missing values, rename columns, make our data more "sensible"
@@ -19,6 +22,7 @@ My approach is divided into the following sections:
 4.	Data visualization - display visually appealing plots and histograms
 5.	Data preprocessing - implement feature engineering, train test splitting, encoding, scaling
 6.	Model building & evaluation - build multiple models (linear regression, decision trees, etc.)
+
 
 My conclusion was this:
 
