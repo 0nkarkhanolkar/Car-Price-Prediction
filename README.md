@@ -1,6 +1,4 @@
 # Car-Price-Prediction
-Determine a car's price based on characteristics such as make, model, year, and other attributes.
-
 As someone who has always been a "car guy," it would only have been fitting that my first ML project was related to what I most love - cars! 
 Thus, I took it upon myself to look at a Car Prices dataset and predict the prices of new cars from a car enthusiast's perspective. 
 It would also be an excellent way to understand better the features and characteristics that most affect a car's prices. 
